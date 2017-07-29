@@ -1,4 +1,4 @@
-package ejercicio_01;
+package Ejercicio_01_clase_01;
 
 public class Ejercicio_01_clase_01 {
 
