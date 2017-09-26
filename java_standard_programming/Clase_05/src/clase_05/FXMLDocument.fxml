@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="551.0" prefWidth="541.0" styleClass="background" stylesheets="@style.css" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="clase_05.FXMLDocumentController">
+   <children>
+      <Label layoutX="48.0" layoutY="34.0" text="Nombre:">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Button layoutX="463.0" layoutY="32.0" mnemonicParsing="false" onAction="#aceptar" text="Aceptar" />
+      <TextField fx:id="txtNombre" layoutX="122.0" layoutY="32.0" prefHeight="22.0" prefWidth="294.0" />
+      <CheckBox fx:id="chkBici" layoutX="37.0" layoutY="87.0" mnemonicParsing="false" text="Bicicleta">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </CheckBox>
+      <CheckBox fx:id="chkMoto" layoutX="37.0" layoutY="125.0" mnemonicParsing="false" text="Moto">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </CheckBox>
+      <CheckBox fx:id="chkAuto" layoutX="37.0" layoutY="163.0" mnemonicParsing="false" text="Auto">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </CheckBox>
+      <Button layoutX="429.0" layoutY="262.0" mnemonicParsing="false" onAction="#agregar" text="Agregar">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <TextArea fx:id="txaTexto" editable="false" layoutX="27.0" layoutY="313.0" prefHeight="200.0" prefWidth="486.0" />
+      <RadioButton fx:id="radSoltero" layoutX="423.0" layoutY="89.0" mnemonicParsing="false" text="Soltero">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </RadioButton>
+      <RadioButton fx:id="radCasado" layoutX="423.0" layoutY="125.0" mnemonicParsing="false" text="Casado">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </RadioButton>
+      <RadioButton fx:id="radViudo" layoutX="423.0" layoutY="163.0" mnemonicParsing="false" text="Viudo">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </RadioButton>
+      <RadioButton fx:id="radDivorciado" layoutX="423.0" layoutY="203.0" mnemonicParsing="false" text="Divorciado">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </RadioButton>
+      <Label layoutX="37.0" layoutY="262.0" text="Colores:">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="cmbColores" layoutX="113.0" layoutY="260.0" prefHeight="22.0" prefWidth="191.0" />
+      <Button layoutX="322.0" layoutY="262.0" mnemonicParsing="false" onAction="#cerrar" text="Cerrar">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
