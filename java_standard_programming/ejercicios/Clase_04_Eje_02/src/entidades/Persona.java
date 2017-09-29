@@ -6,28 +6,29 @@ import java.util.Date;
 public abstract class Persona {
     //atributos
     private String nombre;
-    private Date fechaNacimiento;
-    
+    private Date fechaDeNacimiento;
+
     //constructor
     public Persona() {}
-    public Persona(String nombre, Date fechaNacimiento) {
+    public Persona(String nombre, Date fechaDeNacimiento) {
         this.nombre = nombre;
-        this.fechaNacimiento = fechaNacimiento;
+        this.fechaDeNacimiento = fechaDeNacimiento;
     }
     
-    //getters and setters
+    //getter and setters
     public String getNombre() {
         return nombre;
     }
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-    public Date getFechaNacimiento() {
-        return fechaNacimiento;
+    public Date getFechaDeNacimiento() {
+        return fechaDeNacimiento;
     }
-    public void setFechaNacimiento(Date fechaNacimiento) {
-        this.fechaNacimiento = fechaNacimiento;
+    public void setFechaDeNacimiento(Date fechaDeNacimiento) {
+        this.fechaDeNacimiento = fechaDeNacimiento;
     }
-
+    
+    
     
 }//fin class
