@@ -1,7 +1,5 @@
 
-package ar.com.eduIt.vehiculo.entidades;
-
-import ar.com.eduIt.base.entidades.Persona;
+package ar.com.educacionit.vehiculos.entidades;
 
 public class Comprador extends Persona{
     //atributos
@@ -9,11 +7,11 @@ public class Comprador extends Persona{
     
     //constructor
     public Comprador() {}
-    public Comprador(double presupuesto, String nombre, String apellido, String numeroDocunmento) {
-        super(nombre, apellido, numeroDocunmento);
+    public Comprador(double presupuesto, String nombre, String apellido, String numeroDocumento) {
+        super(nombre, apellido, numeroDocumento);
         this.presupuesto = presupuesto;
     }
-
+    
     //getters and setters
     public double getPresupuesto() {
         return presupuesto;
@@ -24,7 +22,8 @@ public class Comprador extends Persona{
 
     @Override
     public String toString() {
-        return "presupuesto = " + presupuesto + super.toString();
+        return "Comprador:\n" + super.toString() + "\npresupuesto = " + presupuesto;
     }
     
-}//fin class
+    
+}

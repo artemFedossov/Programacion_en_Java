@@ -1,21 +1,21 @@
 
-package ejercicio_01;
+package ar.com.educacionit.vehiculos.entidades;
 
-public class Persona {
-    //Atributos
+public abstract class Persona {
+    //atributos
     private String nombre;
     private String apellido;
     private String numeroDocumento;
     
-    //Constructor
-    public Persona(){}
+    //atributos
+    public Persona() {}
     public Persona(String nombre, String apellido, String numeroDocumento) {
         this.nombre = nombre;
         this.apellido = apellido;
         this.numeroDocumento = numeroDocumento;
     }
     
-    //Getter y Setter
+    //getters and setters
     public String getNombre() {
         return nombre;
     }
@@ -37,9 +37,8 @@ public class Persona {
 
     @Override
     public String toString() {
-        return "\tPersona\nNOMBRE: " + nombre + " APELLIDO: " + apellido + " Nº DNI: " + numeroDocumento;
+        return "nombre = " + nombre + "\napellido = " + apellido + "\nnumero de Documento = " + numeroDocumento;
     }
-    
     
     
 }//fin class
