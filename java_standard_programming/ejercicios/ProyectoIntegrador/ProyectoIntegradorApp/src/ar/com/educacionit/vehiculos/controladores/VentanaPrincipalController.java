@@ -5,9 +5,11 @@
  */
 package ar.com.educacionit.vehiculos.controladores;
 
+import ar.com.educacionit.vehiculos.aplicacion.AppConcesionaria;
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.fxml.Initializable;
+import javafx.stage.Stage;
 
 /**
  * FXML Controller class
@@ -16,9 +18,12 @@ import javafx.fxml.Initializable;
  */
 public class VentanaPrincipalController implements Initializable {
 
-    /**
-     * Initializes the controller class.
-     */
+    private AppConcesionaria programaPrincipal;
+    
+    public void setProgramaPrincipal(AppConcesionaria programaPrincipal){
+        this.programaPrincipal = programaPrincipal;
+    }
+    
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
