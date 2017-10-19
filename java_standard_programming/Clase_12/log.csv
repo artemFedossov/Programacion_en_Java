@@ -1,0 +1,7 @@
+2017-10-12T15:32:02.920;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.ArithmeticException: / by zero
+2017-10-12T15:32:10.163;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.ArithmeticException: / by zero
+2017-10-12T16:19:43.957;Instructor-804/169.254.169.32;Windows 7;educacionit;java.nio.file.FileAlreadyExistsException: res\texto2.txt
+2017-10-12T16:19:43.957;Instructor-804/169.254.169.32;Windows 7;educacionit;java.nio.file.FileAlreadyExistsException: res\texto2.txt
+2017-10-12T16:19:44.003;Instructor-804/169.254.169.32;Windows 7;educacionit;java.nio.file.FileAlreadyExistsException: res\texto2.txt
+2017-10-17T17:48:21.259;Instructor-804/169.254.169.32;Windows 7;educacionit;java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2017-10-17T17:48:33.750;Instructor-804/169.254.169.32;Windows 7;educacionit;java.sql.SQLException: Can not issue data manipulation statements with executeQuery().

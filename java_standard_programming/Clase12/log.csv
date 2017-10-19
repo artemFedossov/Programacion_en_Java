@@ -1,0 +1,19 @@
+2017-10-12T15:32:02.920;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.ArithmeticException: / by zero
+2017-10-12T15:32:10.163;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.ArithmeticException: / by zero
+2017-10-12T16:19:43.957;Instructor-804/169.254.169.32;Windows 7;educacionit;java.nio.file.FileAlreadyExistsException: res\texto2.txt
+2017-10-12T16:19:43.957;Instructor-804/169.254.169.32;Windows 7;educacionit;java.nio.file.FileAlreadyExistsException: res\texto2.txt
+2017-10-12T16:19:44.003;Instructor-804/169.254.169.32;Windows 7;educacionit;java.nio.file.FileAlreadyExistsException: res\texto2.txt
+2017-10-17T17:48:21.259;Instructor-804/169.254.169.32;Windows 7;educacionit;java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2017-10-17T17:48:33.750;Instructor-804/169.254.169.32;Windows 7;educacionit;java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2017-10-19T15:27:20.745;Instructor-804/169.254.169.32;Windows 7;educacionit;java.sql.SQLException: The server time zone value 'Hora estÃ¡ndar de Argentina' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2017-10-19T15:27:20.748;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-19T15:27:20.748;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-19T15:27:20.749;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-19T15:35:50.972;Instructor-804/169.254.169.32;Windows 7;educacionit;java.sql.SQLException: No timezone mapping entry for 'utc'
+2017-10-19T15:35:50.975;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-19T15:35:50.975;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-19T15:35:50.975;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-19T15:36:02.965;Instructor-804/169.254.169.32;Windows 7;educacionit;java.sql.SQLException: No timezone mapping entry for 'utc'
+2017-10-19T15:36:02.969;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-19T15:36:02.969;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-19T15:36:02.969;Instructor-804/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
