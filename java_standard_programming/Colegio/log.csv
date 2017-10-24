@@ -1,0 +1,52 @@
+2017-10-24T15:12:13.126;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+2017-10-24T15:18:01.303;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:20:21.766;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:20:31.874;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:38:42.507;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:38:53.520;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:39:07.283;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:39:14.107;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:48:00.772;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:48:00.779;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:48:00.781;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:48:21.987;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:48:21.993;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:48:21.994;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:49:34.867;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:49:34.874;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:49:34.875;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:50:53.747;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:50:53.753;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:50:53.754;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:51:18.832;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:51:18.843;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:51:18.845;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:54:53.547;alumno-804-12/169.254.169.32;Windows 7;educacionit;com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2017-10-24T15:54:53.554;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:54:53.555;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:54:53.555;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:54:53.556;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:54:53.558;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:54:53.559;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:54:53.559;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException
+2017-10-24T15:54:53.559;alumno-804-12/169.254.169.32;Windows 7;educacionit;java.lang.NullPointerException

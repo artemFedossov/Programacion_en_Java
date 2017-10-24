@@ -25,9 +25,10 @@ public class Curso {
         this.turno = turno;
     }
 
+
     @Override
     public String toString() {
-        return "Curso{" + "id=" + id + ", titulo=" + titulo + ", profesor=" + profesor + ", dia=" + dia + ", turno=" + turno + '}';
+        return id + " " + titulo + " " + profesor + " " + dia + " " + turno;
     }
 
     public int getId() {

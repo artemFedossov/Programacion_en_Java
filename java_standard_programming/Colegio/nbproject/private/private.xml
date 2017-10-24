@@ -3,9 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/Carlos%20Ríos/Colegio/src/colegio/Colegio.java</file>
-            <file>file:/E:/Carlos%20Ríos/Colegio/src/colegio/FXMLDocumentController.java</file>
-            <file>file:/E:/Carlos%20Ríos/Colegio/src/ar/com/eduit/curso/java/utils/Validator.java</file>
+            <file>file:/C:/Users/educacionit/Desktop/programacion_en_Java/java_standard_programming/Colegio/src/ar/com/eduit/curso/java/entities/Curso.java</file>
+            <file>file:/C:/Users/educacionit/Desktop/programacion_en_Java/java_standard_programming/Colegio/src/ar/com/eduit/curso/java/utils/FxTable.java</file>
+            <file>file:/C:/Users/educacionit/Desktop/programacion_en_Java/java_standard_programming/Colegio/src/colegio/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/educacionit/Desktop/programacion_en_Java/java_standard_programming/Colegio/src/ar/com/eduit/curso/java/utils/Validator.java</file>
+            <file>file:/C:/Users/educacionit/Desktop/programacion_en_Java/java_standard_programming/Colegio/src/ar/com/eduit/curso/java/test/TestRepository.java</file>
         </group>
     </open-files>
 </project-private>

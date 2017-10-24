@@ -28,6 +28,7 @@ public class Validator {
     }
     
     public boolean size(int size){
+        if(!isSecure()) return false;
         if(getText().length()==size) return true;
         else{
             JOptionPane.showMessageDialog(null, "El largo debe ser "
@@ -38,8 +39,9 @@ public class Validator {
     }
     
     public boolean size(int min,int max){
+        if(!isSecure()) return false;
         int size=getText().length();
-        if(size<min || size>max) return true;
+        if(size>=min && size<=max) return true;
         else{
             JOptionPane.showMessageDialog(null, "El largo debe ser entre "
                     +min+" y "+max+" caracteres.");
@@ -69,5 +71,27 @@ public class Validator {
             requestFocus();
             return false;
         }
+    }
+    
+    public boolean isSecure(){
+        boolean x = true;
+        
+        if(getText().contains("<")) x=false;
+        if(getText().contains(">")) x=false;
+        if(getText().contains("/")) x=false;
+        if(getText().contains("#")) x=false;
+        if(getText().contains("-")) x=false;
+        if(getText().contains(";")) x=false;
+        if(getText().contains("*")) x=false;
+        if(getText().contains("%")) x=false;
+        if(getText().contains("|")) x=false;
+        if(getText().contains("&")) x=false;
+        if(getText().contains(",")) x=false;
+        if(!x){
+            JOptionPane.showMessageDialog(null, "Contiene caracteres inseguros");
+            requestFocus();
+        }
+        
+        return x;
     }
 }
